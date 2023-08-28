@@ -42,6 +42,23 @@ Modern companies are not just filling vacancies; they're finding the best people
 
 4. **Inequality**:
     - If not designed carefully, it might inadvertently favor certain candidates.
+  
+---
+
+## Example - My Collaborative Challenges with The Broad
+
+I've had the privilege of collaborating on several challenges with The Broad. One of the notable projects I've been involved with can be explored here:
+
+- [Raman Classifier Challenge](https://github.com/broadinstitute/raman_classifier_challenge)
+
+## Example - TA Screening: Demonstrating Competence over Credentials
+
+When it comes to selecting Teaching Assistants, I firmly believe in evaluating potential based on tangible skill demonstrations. Traditional criteria take a backseat as I emphasize practical application. Curious about my approach? Dive into one of my TA screening challenges:
+
+- [TA Contest for INFO 7390: Art and Science of Data - Fall '23](https://github.com/nikbearbrown/INFO_7390_Art_and_Science_of_Data/tree/main/TA_Contest_Fall_23)
+
+This method ensures that the selected TAs are not just academically adept but also equipped with hands-on experience and problem-solving capabilities, primed to assist students effectively.
+
 
 ### Conclusion
 

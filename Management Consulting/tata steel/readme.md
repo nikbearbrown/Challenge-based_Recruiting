@@ -25,3 +25,34 @@ Exhibit 2:
 <img src="images/Market share of steel companies in india.png" alt="Market Share amongst private sector steel participants">
 
 The firm is unique in the fact that all its raw materials are provided by captive mines, giving some control over fluctuations in the raw materials markets.
+
+## Competition and Challenges
+The plant in the UK is rapidly aging and is fast approaching the end of its useful life, resulting in greater cost escalations, priority spending in capex and large losses. The firm employs over 8000 workers in Port Talbot in south wales. There is an ongoing negotiation with the UK government on a financial lifeline, leaving the division’s future uncertain. Exhibit 3 shows the profit and loss for UK.
+
+Exhibit 3:
+<img src="images/Corus tata steel(UK).png" alt="Financials of tata steel UK">
+
+The protracted conflict in Europe, and the diminished economy output in China (worlds largest consumer of steel) has significantly reduced the demand and price of steel across the globe. Additionally, the focus on decarbonization is expected to lead to a shift in the type of steel manufactured.
+Exhibit 4
+<img src="images/MKinsey global metals mix.png" alt="Mkinsey insights metallurgy">
+The firm has an ambitious net 0 carbon emissions target by 2045 but will need to make significant investments to honor its commitments.
+
+## Ancillary data items
+USD to INR = 1 : 82
+Pound to INR = 1:103
+Last traded price of Tata Steel = INR 132.30
+Number of outstanding Shares = 12,218,901,099
+
+Manufacturing and distribution by geography (Exhibit 5):
+<img src="images/Breakdown of steel manufacturing tata steel.png" alt="Steel breakdown">
+
+Exhibit 6 ( Balance sheet):
+<img src="images/Tata Steel Balance sheet.png" alt="Balance Sheet">
+
+Exhibit 7 ( Profit and Loss):
+<img src="images/Tata Steel income statement.png" alt="Profit and loss">
+
+## Questions to answer
+1.	What can be the steps taken to improve the unstable EBITDA margin?
+2.	Should the company continue to find new markets or prioritize improving in its home market?
+3.	What is a reasonable valuation of the firm?

@@ -28,6 +28,15 @@ This is a simulated case study, with inputs from D-Mart a large online grocery s
 
 <img src="images/Digital Market share.png" alt="Market Share amongst Digital hypermarkets in the India">
 
+Customer who shop online at least once per
+
+|  Customer category | Weekly | Monthly | Never |
+| ------------- | ------------- | ------------- | ------------- | 
+|  Single Men | 70% | 25%  | 5% | 
+|  Single Women | 60% | 20%  | 10% | 
+|  Families without children | 20% | 30%  | 50% | 
+|  Families with one or more children| 15% | 40%  | 45% | 
+
 **Candidate**: Id like to ask one last clarifying question; do you plan to have an online presence throughout india or only in the regions where you have a physical presence?  
 
 **Interviewer**: We would like to do pan india if its profitable and within budget, otherwise we are fine with our traditional regions of coverage.  
@@ -40,8 +49,15 @@ This is a simulated case study, with inputs from D-Mart a large online grocery s
 
 **Candidate**: Id like to discuss the loss projection and more about your customers. Your estimates show that you expect to lose around 18 million customers and revenue per customer will dip by around 17%.  
  Its also clear that married couples tend to shop online fewer, especially if they have children. My guess is that single customers are more tech savvy and the couples may be of an older generation and more unfamiliar with the technology. Can you tell me more about your breakdown by customer group to overall revenue and more about what customers really value from the brand?  
- 
-(Shows the breakdown figures)
+
+
+|  Customer category | Breakdown by customer profile | Breakdown by revuene |
+| ------------- | ------------- | ------------- | 
+|  Single Men | 5% | 5%  | 
+|  Single Women | 15% | 15%  | 
+|  Families without children | 30% | 30%  | 
+|  Families with one or more children| 50% | 50%  |
+
 **Interviewer**: Yes, a majority of our customers are families and are unfamiliar with technology. Our customers really value the low prices and freshness of our products, they enjoy the quality that our competitors can’t deliver.  
 
 **Candidate**: That’s really great, we should make sure that we deliver the same quality when we go online. What is your current supply and logistics chain? Which parts of the country do you have presence in?  

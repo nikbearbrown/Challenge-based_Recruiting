@@ -5,10 +5,14 @@ This is a simulated case study, with inputs from D-Mart a large online grocery s
 
 **Interviewer**: Prompt: Our client is D-Mart a hypermarket chain which operates only in india and has a revenue of RE 270.14 billion. As the corona virus has just hit and lockdowns are announced the client, which has never had an online presence before, wants to enter the field to survive and avoid disruption/losses. They also want to navigate the ecommerce space and maintain their competitive edge.  
 
-(You will need to probe for details to figure out the situation, aim and objective, possible course of action, constraints and more)
+
 **Candidate**: That’s really great. Id like to ask some clarifying questions. Why do you want to go online? How would success be evaluated, are there any metrics for performance, market share that the firm would like to hit? Are there any other objectives or constraints I need to be aware of?  
 
 **Interviewer**: Our main aim is survival; we are forecasting massive losses as our customers will be locked indoors and unable to walk to our stores. We hope to not lose any revenue in the process and would ideally like to transition all losses from in store to online to maintain the same revenue as of 2019 RE 270.14 billion.  We have the second largest market share amongst physical hypermarkets in the country, we want to maintain our market share as well as achieve the same market position with our new e-commerce division. As the pandemic is really fast acting, we really need this to happen in one year.  
+
+![image](https://github.com/Vasanth-Pragash/Challenge-based_Recruiting/assets/15907803/b2ec1357-05a5-42dc-bdb6-cf7d788cb765)
+
+
 
 **Candidate**: Can I assume that you primarily operate in the B2C and sell only to clients and not to other businesses like restaurants, kiranas etc.? Also how will this incentive be funded, and are you flexible on the budget?  
 
@@ -18,7 +22,9 @@ This is a simulated case study, with inputs from D-Mart a large online grocery s
 
 **Interviewer**: Yes we have done some research, gathered data about online market size and our competitors. We have also conducted an in-store survey with our customers to see if they would like to buy online. We have a simple website which showcases our awards and contains contact information for suppliers to reach us. We don’t have any ecommerce presence.  
 
-(Shows the market share amongst physical, online and customer survey results)
+![image](https://github.com/Vasanth-Pragash/Challenge-based_Recruiting/assets/15907803/57d83584-de3e-40cb-8ef3-0a2bd5611418)
+
+
 **Candidate**: Id like to ask one last clarifying question; do you plan to have an online presence throughout india or only in the regions where you have a physical presence?  
 
 **Interviewer**: We would like to do pan india if its profitable and within budget, otherwise we are fine with our traditional regions of coverage.  

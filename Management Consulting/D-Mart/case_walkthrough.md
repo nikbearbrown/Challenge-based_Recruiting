@@ -1,6 +1,6 @@
 # D-Mart Online Expansion case study 
 
-This is a simulated case study, with inputs from D-Mart a large online grocery store in india during the covid 19 pandemic. KEY FIGURES and FACTS have been changed to give practice on approaching an online expansion case study. Keep this in mind while doing the case.
+This is a simulated case study, with inputs from D-Mart a large online grocery store in india during the covid 19 pandemic. KEY FIGURES and FACTS have been changed to give practice on approaching an online expansion case study. Keep this in mind while doing the case. The time of the case is may 2020.
 ---
 
 **Interviewer**: Prompt: Our client is D-Mart a hypermarket chain which operates only in india and has a revenue of RE 270.14 billion. As the corona virus has just hit and lockdowns are announced the client, which has never had an online presence before, wants to enter the field to survive and avoid disruption/losses. They also want to navigate the ecommerce space and maintain their competitive edge.  
@@ -12,7 +12,11 @@ This is a simulated case study, with inputs from D-Mart a large online grocery s
 
 ![image](https://github.com/Vasanth-Pragash/Challenge-based_Recruiting/assets/15907803/b2ec1357-05a5-42dc-bdb6-cf7d788cb765)
 
-
+|   | 2017-2018 | 2018-2019 | 2019-2020 | 2020 Q1  | 2020 Q2 (EST)  | 2020 Q3 (EST) | 2020 Q4 (EST)| 2020 - 2021 (EST) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------  | ------------- | ------------- |
+| Revenue  | 164,465,400,000  |  218,279,800,000 | 270,140,000,000  | 63,746,597,315.07   | 47,809,947,986.31   | 39,841,623,321.92   | 39,841,623,321.92   | 191,239,791,945.22   |
+| Number of customers  | 100,000,000  |  115,000,000.00   | 132,250,000.00   |  34,219,687.50   | 26,615,312.50  | 26,615,312.50   | 26,615,312.50  | 114,065,625.00  |
+| Number of stores  | 300  |  310  | 320  | 320  | 320  | 320  | 320  | 320  |
 
 **Candidate**: Can I assume that you primarily operate in the B2C and sell only to clients and not to other businesses like restaurants, kiranas etc.? Also how will this incentive be funded, and are you flexible on the budget?  
 

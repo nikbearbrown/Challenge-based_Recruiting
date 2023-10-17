@@ -1,7 +1,7 @@
 # Sway AI Programming Challenge for Internship / Job Applicants
 
 ## Objective:
-Develop a comprehensive data cleaning solution that can identify, classify, correct data errors, learn from the previous cleaning sessions, and be integrable and scalable with the existing data cleaning tools and processes.
+Develop a comprehensive data cleaning solution that can identify, classify, and correct data errors, learn from the previous cleaning sessions, and be integrable and scalable with the existing data cleaning tools and processes.
 
 ## Target Participants:
 Master’s degree students or recent graduates in Computer Science, Data Science, Machine Learning, or related fields.
@@ -132,6 +132,14 @@ Ensure that each solution developed for the challenges is modular, scalable, and
 ## Submission:
 Provide a GitHub repository link containing all code, documentation, and relevant assets.
 Include a README file with clear instructions on setting up and running the solution, along with a brief summary of the approach taken.
+
+For inquiries, submissions, or any questions, please feel free to contact us using the following email addresses:
+
+- [sumit.kumar@sway-ai.com](mailto:sumit.kumar@sway-ai.com)
+- [jitender.arora@sway-ai.com](mailto:jitender.arora@sway-ai.com)
+
+We welcome your communication and look forward to assisting you.
+
 
 ## Note:
 Please ensure to thoroughly test the solution to ensure reliability and efficacy. Remember to manage your time effectively to cover all requirements within the allotted time frame.

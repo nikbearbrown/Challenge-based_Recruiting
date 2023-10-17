@@ -1,7 +1,29 @@
 # General facts:
 1.	Population of the USA is 331 million USD (2021)
 2.	Number of households in the USA is 123 million (2020)
+3.	Life expectancy is 80+
+4.	Median age of American is 38 (2019)
+
+*Common formulas*:
+1.	Net income = Revenue – all expenses
+2.	Breakeven point (no of units) = Fixed cost/(price per unit – variable cost)
+3.	Breakeven price point = Fixed cost/ number of units + variable cost(per unit)
+4.	Profit margin =  Net income / Revenue . (Note the income portion can vary if depending on the type, this is net income margin, gross is  (Revenue-Cogs)/Revenue
+5.	Return on investment = Returns/Investment cost
+6.	Compound annualized growth rate (%) = ((Final/Initial value) ^ (1/number of years) ) - 1
+
 # Market Sizing:
+
+## Population based questions
+You are asked to estimate something based on population, i.e. how many cokes are drunk in the USA per day?
+You can only ask clarifying questions, its best to write down your assumptions and share your thought process with the interviewer. The interviewer wants to see your approach and your ability to think and assume things logically. You should aim to nail the answer or get stuck, work creatively and transparently occasionally the interviewer will challenge your assumptions defend it if its reasonable otherwise accept the change if its logical.
+
+*Steps*
+1.	First make sure you understand what the product/ask is. If its coke, understand that’s it’s a sugary drink(soda) consumed on a recreational basis, often after a meal or just for fun.
+2.	Logically breakdown population into segments or age groups. Write this down.
+3.	Determine the number of people in each bracket who will use the product.
+4.	Some people are more likely to be heavy users, moderate users or light users of the product. This will significantly change the demand for the product so track this separately
+5.	Combine all the information to arrive at a figure. If its way off try to estimate a more suitable number and share with the interviewer why you think you got it wrong. This is why writing everything down is important
 
 # Approach:
 When presented with the problem you always want to ask about the firm and its objectives, and any constraints. 

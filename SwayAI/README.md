@@ -30,7 +30,10 @@ A maximum of one weekend (48 hours) from the initiation of the challenge.
    - Provide a comprehensive documentation outlining design choices, architecture, usage instructions, and any potential improvements that could be pursued in the future.
 
 ## Challenge Details:
-Applicants should choose one of the following challenges. Questions should be sent to ???@sway-ai.com
+Applicants should choose one of the following challenges. Questions should be sent to:  
+- [sumit.kumar@sway-ai.com](mailto:sumit.kumar@sway-ai.com)
+- [jitender.arora@sway-ai.com](mailto:jitender.arora@sway-ai.com)
+
 
 ### Challenge One: Data Input
 **Data Ingestion:**

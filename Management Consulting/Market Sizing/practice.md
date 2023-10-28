@@ -34,11 +34,13 @@ The high income portion is roughly 20% , middle income is roughly 50%, with the 
 Rich households probably have more than one refrigerator in their home. They could have multiple kitchens,etc so I will assume they have roughly 4 per household.
 The middle-income households have 2 fridges. The lower income households can’t afford to have multiple fridges so let us assume that they have 1 fridge each.
 
+
+
 | Affluence	| Number Households	| Number per home	| Total |
-| ------------- || ------------- || ------------- || ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | High |	22000000| 4 |	88000000 |
 | Middle | 55000000| 2 | 110000000|
-| Low |	33000000 |1 |	33000000 |
+| Low |	33000000 | 1 |	33000000 |
  Total: 231,000,000.00
 
 There are roughly 231 million refrigerators in the USA.

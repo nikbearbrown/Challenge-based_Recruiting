@@ -15,6 +15,8 @@ Our customer segments are:
 2.	Heavy construction
 3.	Light construction
 Their breakdown is:
+
+ <img src="images/Customer Segmentation.jpg" alt="Cemex Customer Segmentation">
  
 **Interviewee**:
 That’s interesting  the primary use case is infrastructure, whose spending across the globe has been volatile since interest rates have started going up across the globe. It will be interesting to see how the mix has changed over time. Before proceeding with the assessment is there an industry wide slowdown , and what is the market share of the client?
@@ -22,16 +24,21 @@ That’s interesting  the primary use case is infrastructure, whose spending acr
 **Interviewer**: Yes there is an industry wide slowdown due to cut backs in global infrastructure spending and the client is the second largest player in the United States with a market share of around 35%.
 **Interviewee**: This is interesting, id like to focus on the revenue and cost drivers for the company. The analysis can be broken down into:
 
-
+ <img src="images/Profit breakdown.jpg" alt="Profit Breakdown">
 
 Can you provide the revenue and cost breakdown for the client?
 
 **Interviewer**: We do not have the pricing data from the client, and in any case, they are a market chaser and not a market maker.  This is the breakdown for costs:
+
+ <img src="images/Cost breakdown.jpg" alt="Cemex Cost Breakdown">
  
 We can clearly see that fixed costs significantly drive the cost perspective.
 As we know that the client has a volatile earnings scenario, we cannot change the prices and there is a global macro-economic slowdown, would the client be willing to sell unprofitable divisions(or under utilized) to reduce the losses and reduce shrinkage?
+
 **Interviewer**: The client may be willing to do this, can you provide a summary of the risks and benefits?
+
 **Interviewee**:
+
 Risks:
 1.	A possible risk is that the global economy may rebound which may leave Cemex unable to scale up demand.
 2.	Market share may further erode.

@@ -1,4 +1,5 @@
 # Case study for agile transformation
+## Case type: Competitive Response
 
 **Case Scenario**:
 You are a consultant at Alpha Consulting, and you have been assigned to work with a client, a large multinational corporation, who is looking to undergo an Agile Transformation. The client is experiencing challenges in adapting to the Agile methodology and is seeking your expertise to ensure a successful transition. The client's primary goal is to improve product development efficiency and overall company agility.

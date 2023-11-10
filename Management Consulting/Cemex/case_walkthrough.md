@@ -1,4 +1,5 @@
 # Cemex case study
+## Case type: Profitabilty
 
 **Interviewer**: Our client is CEMEX a large cement manufacturing company based in Mexico but with its primary market in the USA.  Its revenue for 2022 was $15.5 billion dollars. The client has an issue with profitability, and has made large losses in the recent past. The board has hired a new CEO, and they want to turn things around.
 

@@ -1,3 +1,6 @@
+# Harley Davidson
+## Case type: Pricing
+
 **Case Scenario**: Harley Davidson, the iconic motorcycle manufacturer, is planning to launch a new electric motorcycle model. The company is facing a critical decision regarding the pricing strategy for this new product. As a consultant, your task is to help Harley Davidson determine the optimal pricing strategy for the electric motorcycle, considering various internal and external factors.
 
 **Interviewee Notes**:

@@ -1,4 +1,5 @@
 # Case study for international expansion of Xiaomi corporation
+## Case type: Market Entry
 
 **Case Scenario**: Xiaomi, a leading Chinese electronics company, is considering expanding its operations internationally. They have reached out to our consulting firm for assistance in formulating a strategic plan for their global expansion. Xiaomi is well-known for its smartphones, smart home products, and IoT devices, and they are eager to expand their market presence beyond China. The client seeks insights into the best countries to target and a comprehensive strategy for their international expansion.
 

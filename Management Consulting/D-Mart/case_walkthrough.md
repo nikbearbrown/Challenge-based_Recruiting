@@ -1,4 +1,5 @@
 # D-Mart Online Expansion case study 
+## Case type: Market Entry
 
 This is a simulated case study, with inputs from D-Mart a large online grocery store in india during the covid 19 pandemic. KEY FIGURES and FACTS have been changed to give practice on approaching an online expansion case study. Keep this in mind while doing the case. The time of the case is may 2020.
 ---

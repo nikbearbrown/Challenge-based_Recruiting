@@ -1,3 +1,5 @@
+# Sirius XM
+## Case type: Competitive Response 
 Sirius XM, a leading satellite radio company, is facing challenges in maintaining profitability and market relevance. With the rise of streaming services and changing consumer preferences, the company's subscriber base has plateaued, and financial performance has been underwhelming. As a consultant, your task is to develop a turnaround strategy to revitalize Sirius XM's business.
 ________________________________________
 **Interviewee Notes**:

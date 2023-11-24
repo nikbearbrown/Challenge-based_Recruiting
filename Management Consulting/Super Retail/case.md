@@ -43,7 +43,7 @@ Year 2:
 ________________________________________
 Framework:
 
-< insert image here>
+<img src="images/Profitability Framework.jpg" alt="Profitability Framework">
 
 ## Introduction:
 
